@@ -2,9 +2,9 @@
 <div align="left">
    <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Iniciei minha carreira de desenvolvedor web        estudando na <a href="https://betrybe.com.br">Trybe</a>
    <br>
+   <br>
    🔎  Estou em busca da minha primeira oportunidade como <i>Programador Jr</i>
    <br>
-   ✍️  Estudando: Python 
    <br>
    📩 Email: pedroresck1@gmail.com
    <br>
