@@ -1,13 +1,15 @@
 ## Olá! Eu sou Pedro Resck ✌️
 <div align="left">
-   <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Iniciei minha carreira de desenvolvedor web        estudando na [Trybe](https://www.betrybe.com.br)
+   <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Iniciei minha carreira de desenvolvedor web        estudando na <a href="https://betrybe.com.br">Trybe</a>
    <br>
-   🔎 Estou procurando minha primeira oportunidade como *Programador Jr* <br>
-   ✍️ Estudando: Python <br><br>
+   🔎  Estou em busca da minha primeira oportunidade como <i>Programador Jr</i>
+   <br>
+   ✍️  Estudando: Python 
+   <br>
+   <br>
 </div>
 
 <div align="center">
-  <a href="https://github.com/pedroresck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroresck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroresck&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -30,8 +32,7 @@
 ##
 
 <br>
-  🤝 CONTATOS
- <br>
+   <h3>🤝 CONTATOS 🤝</h3> 
  <br>
  <br>
   
