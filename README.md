@@ -1,7 +1,10 @@
 ## Olá! Eu sou Pedro Resck ✌️
-
-- 🔎 Estou procurando minha primeira oportunidade como **_PROGRAMADOR JR_**
-- ✍️ Estudando: Python
+<div align="left">
+   <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Iniciei minha carreira de desenvolvedor web        estudando na [Trybe](https://www.betrybe.com.br)
+   <br>
+   🔎 Estou procurando minha primeira oportunidade como *Programador Jr* <br>
+   ✍️ Estudando: Python <br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/pedroresck">
@@ -21,16 +24,34 @@
   <img align="center" alt="Pedro-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />        
 </div>
   
-  ##
  
-<div> 
+<div align="center">
+
+##
+
+<br>
+  🤝 CONTATOS
+ <br>
+ <br>
+ <br>
+  
   <a href="https://www.linkedin.com/in/pedroresck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/pedroresck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedroresck1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+ ##
+</div>
+
+<div>
   
-  ##
-  ##
- 
   ![Snake animation](https://github.com/pedroresck/pedroresck/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+
+<div align="right">
+ <br>
+ <br>
+   
+   ![](https://komarev.com/ghpvc/?username=pedroresck)
+   
 </div>
