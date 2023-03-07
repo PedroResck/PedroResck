@@ -3,7 +3,7 @@
    <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> Iniciei minha carreira de desenvolvedor web        estudando na <a href="https://www.betrybe.com/?utm_source=trybe.com.br">Trybe</a> 
    <br>
    <br>
-   🔎  Estou em busca da minha primeira oportunidade como <i>Programador Fullstack Jr. </i>
+   🔎  Sou <i>Programador Fullstack Jr. </i> e estou disponível para ajudar a desenvolver seu projeto!
    <br>
    <br>
    📩 Email: pedroresck1@gmail.com
@@ -25,7 +25,7 @@
   <img align="center" alt="Pedro-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Pedro-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Pedro-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />        
+  <img align="center" alt="Pedro-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
   
  
